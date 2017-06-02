@@ -20,3 +20,4 @@ if target_hashs == config_hashs
 else
   puts "错误的配置"
 end
+
