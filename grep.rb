@@ -1,6 +1,6 @@
 filename = ARGV[0]
      key = ARGV[1]
-     num = 0
+     num = 1
 if filename==nil||key==nil
   puts "usage: grep [filepath] [keyword]"
   exit
